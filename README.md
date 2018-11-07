@@ -23,3 +23,5 @@ A set of instructions which the computer will follow to solve a problem.
 4. Need to learn techniques for writing more efficient code.<br>
 5. Need to recognize bottlenecks in code as well as which parts of code are easiest to optimize.<br>
 </p>
+<h5>Complexity</h5>
+<p>The complexity of an algorithm is simply the amount of work the algorithm performs to complete its task.</p>
