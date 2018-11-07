@@ -25,3 +25,9 @@ A set of instructions which the computer will follow to solve a problem.
 </p>
 <h5>Complexity</h5>
 <p>The complexity of an algorithm is simply the amount of work the algorithm performs to complete its task.</p>
+<h5>Define Problem</h5>
+<p>1. <b>Problem :</b> Description of Input-Output relationship. <br>
+2. <b>Algorithm :</b> A sequence of computational step that transform the input into the output.<br>
+3. <b>Data Structure :</b> An organized method of storing and retrieving data.<br>
+4. <b>Our task :</b> 	Given a problem, design a correct and good algorithm that solves it.<br>
+</p>
