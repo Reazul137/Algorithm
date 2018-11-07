@@ -16,3 +16,10 @@ A set of instructions which the computer will follow to solve a problem.
 6. Simplicity, clarity (Verification and implementation).<br> 
 7. Optimality. (Is it impossible to do better?) <br> 
 </p>
+<h5>Importance of Analyze Algorithm?</h5>
+<p>1. Need to recognize limitations of various algorithms for solving a problem.<br>
+2. Need to understand relationship between problem size and running time. (When is a running program not good enough?).<br>
+3. Need to learn how to analyze an algorithm's running time without coding it.<br>
+4. Need to learn techniques for writing more efficient code.<br>
+5. Need to recognize bottlenecks in code as well as which parts of code are easiest to optimize.<br>
+</p>
