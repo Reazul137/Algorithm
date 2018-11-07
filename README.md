@@ -1,1 +1,1 @@
-<h1 style='color:blue'>Algorithm</h1>
+<h1 font color="red" style='color:red'>Algorithm!</h1>
