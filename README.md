@@ -31,3 +31,9 @@ A set of instructions which the computer will follow to solve a problem.
 3. <b>Data Structure :</b> An organized method of storing and retrieving data.<br>
 4. <b>Our task :</b> 	Given a problem, design a correct and good algorithm that solves it.<br>
 </p>
+
+<h5>Which algorithm is better?</h5>
+<p>1. Measure the running time (number of operations needed).
+ 2. Measure the amount of memory used.
+ 3. Note that the running time of the algorithms increase as the size of the input increases.
+</p>
