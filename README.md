@@ -33,7 +33,7 @@ A set of instructions which the computer will follow to solve a problem.
 </p>
 
 <h5>Which algorithm is better?</h5>
-<p>1. Measure the running time (number of operations needed).
- 2. Measure the amount of memory used.
- 3. Note that the running time of the algorithms increase as the size of the input increases.
+<p>1. Measure the running time (number of operations needed).<br>
+ 2. Measure the amount of memory used.<br>
+ 3. Note that the running time of the algorithms increase as the size of the input increases.<br>
 </p>
