@@ -48,3 +48,9 @@ A set of instructions which the computer will follow to solve a problem.
 --> dynamic programming applies when subproblem overlap.</br>
 --> dynamic programming algorithm solves each sub problem must once and then saves its answer in double.</br>
 </p>
+<p><b>4steps for dynamic programming::<b><br>
+1. characterize the structure of an optimal solution.<br>
+2. recursively define the value of an optimal solution.<br>
+3. compute the value of an optimal solution.<br>
+4. construct optimal solution from computed information.<br>
+ </p>
