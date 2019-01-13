@@ -37,3 +37,9 @@ A set of instructions which the computer will follow to solve a problem.
  2. Measure the amount of memory used.<br>
  3. Note that the running time of the algorithms increase as the size of the input increases.<br>
 </p>
+
+<h5>Dynamic Programming</h5>
+<p>1. It is used, when the solution can be recursively described in terms of solutions to subproblems (optimal substructure).</br>
+2. Algorithm finds solutions to subproblems and stores them in memory for later use.</br>
+3. More efficient than “brute-force methods”, which solve the same subproblems over and over again.</br>
+</p>
