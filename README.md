@@ -43,7 +43,7 @@ A set of instructions which the computer will follow to solve a problem.
 2. Algorithm finds solutions to subproblems and stores them in memory for later use.</br>
 3. More efficient than “brute-force methods”, which solve the same subproblems over and over again.</br>
 </p>
-<p><b>How it works::<b>
+<p><b>How it works::<b></br>
  --> dynamic programming solves problems by combining the solutions to sub problem.</br>
 --> dynamic programming applies when subproblem overlap.</br>
 --> dynamic programming algorithm solves each sub problem must once and then saves its answer in double.</br>
